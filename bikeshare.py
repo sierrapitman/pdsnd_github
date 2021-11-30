@@ -209,6 +209,7 @@
     "\n",
     "\n",
     "#add option to see 5 rows\n",
+    "#alternative code provided by Udacity is listed below"
     "def view_head(df):\n",
     "    while True:\n",
     "        input_option = input(\"Would you like to view 5 rows of data? yes or no:\\n\").lower()\n",
