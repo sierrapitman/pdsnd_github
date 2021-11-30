@@ -42,4 +42,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-Project Description provided by Udacity.
+Project descriptions provided by Udacity.
