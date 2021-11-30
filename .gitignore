@@ -1,3 +1,8 @@
+#git documents#
 .github/**
 
+#file types#
 *.csv
+
+#OS generated files#
+.DS_Store
